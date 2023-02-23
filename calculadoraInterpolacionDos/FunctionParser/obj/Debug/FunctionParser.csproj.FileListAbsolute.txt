@@ -1,0 +1,4 @@
+D:\Este equipo\ARVIOJ\FunctionParser-master\FunctionParser-master\FunctionParser\bin\Debug\FunctionParser.dll
+D:\Este equipo\ARVIOJ\FunctionParser-master\FunctionParser-master\FunctionParser\bin\Debug\FunctionParser.pdb
+D:\Este equipo\ARVIOJ\FunctionParser-master\FunctionParser-master\FunctionParser\obj\Debug\FunctionParser.dll
+D:\Este equipo\ARVIOJ\FunctionParser-master\FunctionParser-master\FunctionParser\obj\Debug\FunctionParser.pdb
